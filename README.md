@@ -1,0 +1,3 @@
+# simpleCRUDindjangoRF
+# simpleCRUDindjangoRF
+# simpleCRUDindjangoRF
