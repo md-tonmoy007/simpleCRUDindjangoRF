@@ -1,3 +1,2 @@
 # simpleCRUDindjangoRF
-# simpleCRUDindjangoRF
-# simpleCRUDindjangoRF
+
